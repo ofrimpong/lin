@@ -1,0 +1,6 @@
+is_connected=ALIVE
+not_Connected = Died
+checkft is_connected:
+    say('hello world')
+dline:
+    say('badc rhifjr cjrvitj cjtijditjngj gtugiu')
